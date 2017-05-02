@@ -166,3 +166,4 @@ You need to copy `username`, `password`.
 [nathan_twitter]: https://twitter.com/nfriedly
 [pi_docs]: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/personality-insights/
 [vcap_environment]: https://www.ibm.com/watson/developercloud/doc/common/getting-started-variables.html
+# To adapt to aptas
